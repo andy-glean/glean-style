@@ -14,6 +14,6 @@ In an active sentence, it’s clear who’s doing what. The actor is the subject
 ## Passive voice
 At times, active voice can come across too harshly. In these cases, use passive voice. This separates the actor from the action enough to soften a sentence. In a passive sentence, action is being taken upon the subject.
 
-✅ Your payment has been declined
+✅ Your payment has been declined.
 
-🚫 We declined your payment
+🚫 We declined your payment.
